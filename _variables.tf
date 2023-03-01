@@ -44,7 +44,7 @@ variable "helm_chart_repo" {
 
 variable "helm_chart_version" {
   type        = string
-  default     = "0.1.23"
+  default     = "0.1.13"
   description = "Fluent Bit Helm chart version."
 }
 
